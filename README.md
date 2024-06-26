@@ -20,7 +20,7 @@ pip install -r requirements.txt
 python bot.py
 ```
 - Jika error menggunakan bot.py pakai main.py
-
+- Use Python 3.10 [Link](https://www.python.org/ftp/python/3.10.0/python-3.10.0-amd64.exe)
 
 # DAPATKAN LEBIH BANYAK SCRIPT BOT
 - https://t.me/AirdropFamilyIDN
