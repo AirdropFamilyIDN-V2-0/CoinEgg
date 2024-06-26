@@ -8,7 +8,7 @@ Link Bot : https://t.me/coinegg_miner_bot/miniapp?startapp=kBNoWEHfEAB3M1jKuGF
 
 # HOW TO RUN
 ```
-git clone https://github.com/AirDropFamilyIDN/CoinEgg.git
+git clone https://github.com/AirdropFamilyIDN-V2-0/CoinEgg.git
 ```
 ```
 cd CoinEgg
