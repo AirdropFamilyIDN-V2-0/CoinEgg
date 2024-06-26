@@ -14,7 +14,7 @@ git clone https://github.com/AirDropFamilyIDN/CoinEgg.git
 cd CoinEgg
 ```
 ```
-pip install -r requerements.txt
+pip install -r requirements.txt
 ```
 ```
 python bot.py
